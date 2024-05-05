@@ -36,3 +36,8 @@ for (let i = 0; i < perguntas.length; i++) {
     }
 }
 document.write("<p>Você acertou " + total + " de " + perguntas.length + " perguntas.</p>");
+
+// Troca a cor do fundo da página
+function trocar(cor){
+    document.body.style.background =cor;
+}
