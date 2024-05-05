@@ -17,16 +17,16 @@ let perguntas = [
 // Validação das respostas
 
 let respostas = [
-    "O nome da peça  é  câmbio",
-    "A parte da bicicleta responsável por parar a roda é o freio",
-    "O dispositivo que você usa para inflar os pneus de uma bicicleta é a bomba de ar",
-    "As siglas MTB significam Mountain Bike",
-    "A parte da bicicleta que conecta o guidão ao quadro é o avanço",
-    "O nome da peça onde você senta ao andar de bicicleta é o selim ou banco",
-    "As letras BMX representam Bicycle Motocross",
-    "O tipo de bicicleta projetado principalmente para uso em estradas pavimentadas é a bicicleta de estrada (ou road bike)",
-    "A peça que conecta o pedal à roda traseira de uma bicicleta é o pedivela",
-    "O nome dado às bicicletas que possuem um motor elétrico auxiliar para ajudar na pedalada é bicicleta elétrica (ou e-bike)",
+    "câmbio",
+    "freio traseiro",
+    "bomba de ar",
+    "mountain bike",
+    "avanço",
+    "selim",
+    "bicycle motocross",
+    "bicicleta de estrada",
+    "pedivela",
+    "bike elétrica",
 
 ];
 for (let i = 0; i < perguntas.length; i++) {
