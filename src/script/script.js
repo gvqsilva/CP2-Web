@@ -22,10 +22,10 @@ function validar(){
 
 //Função da página contato
 function validateForm() {
-    var name = document.getElementById("name").value;
-    var phone = document.getElementById("phone").value;
-    var email = document.getElementById("email").value;
-    if (name == "" || phone == "" || email == "") {
+    let nome = document.getElementById("Nome").value;
+    let telefone = document.getElementById("Telefone").value;
+    let email = document.getElementById("Email").value;
+    if (nome == "" || telefone == "" || email == "") {
         alert("Por favor, preencha todos os campos.");
         return false;
     }
