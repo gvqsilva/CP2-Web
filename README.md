@@ -2,7 +2,7 @@
   <img loading="lazy" src = "https://github.com/gvqsilva/CP2-Web/assets/110639916/a16df21b-d794-4ed6-a0a4-74afbf7747a4"</>
 </p>
 <h1 align="center">Bikecity - Para amantes do ciclismo</h1>
-<p>Bem-vindo ao projeto Bikecity! Esta é uma loja de bicicletas virtual, onde os entusiastas de bicicletas podem explorar uma ampla variedade de bicicletas de qualidade, acessórios e serviços relacionados.</p>
+<p>Bem-vindo ao projeto Bikecity! Esta é uma loja de bicicletas virtual, onde os entusiastas de bicicletas podem explorar uma ampla variedade de bicicletas de qualidade.</p>
 
 
 # Índice
